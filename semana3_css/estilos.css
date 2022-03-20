@@ -1,0 +1,146 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: rgba(0, 56, 139, 0.692);
+}
+
+nav ul{
+    overflow: hidden;
+    list-style: none;
+    color: aliceblue;
+}
+nav li{
+    float: left;
+}
+
+li a{
+    display: block;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.vacunacion{
+    padding-right: 300px;
+    font-size: 30px;
+    font-weight: 900;
+    color: rgba(15, 15, 124, 0.26);
+}
+.vacunate{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    margin-top: 100px;
+    padding: 20px;
+    width: 42%;
+    color: aliceblue;
+    
+}
+
+.sigamos{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    padding: 20px;
+    width: 42%;
+    color: aliceblue;
+}
+.mejor li{
+    float: left;
+    padding: 20px;
+    width: 20%;
+    text-decoration: dotted;
+    color: aliceblue;
+}
+.agendar{
+    float: left;
+    background-color: rgb(210, 227, 252);
+    padding: 10px;
+}
+.izq{
+    float: left;
+    width: 50%;
+}
+.der{
+    float: left;
+    width: 40%;
+}
+.atencion{
+    background-color: blue;
+    border-radius: 10px;
+}
+.atencion a {
+    color: aliceblue;
+    text-align: center;
+}
+.tabla{
+    padding: 10px;
+    display: flex;
+}
+.ventajas{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    padding: 20px;
+    width: 42%;
+    color: aliceblue;
+    text-align: justify;
+}
+.ventajas h1{
+    padding: 20px;
+}
+.ventajas2{
+    width: 25%;
+    color: aliceblue;
+    float: left;
+    text-align: left;
+}
+
+.preparaciones{
+    margin-top: 200px;
+    margin-right: 100px;
+    color: aliceblue;
+    float: left;
+    width: 45%;
+}
+.preparaciones2{
+    margin-top: 100px;
+    color: aliceblue;
+}
+.recomendaciones{
+    margin-top: 200px;
+    color: aliceblue;
+    line-height: 50px;
+}
+.contacto{
+    padding-top: 75px;
+    color: aliceblue;
+    float: left;
+    width: 50%;
+}
+.imagens{
+    float: right;
+    width: 50%;
+}
+
+.numeros table{
+    
+    line-height: 15px;
+    padding-left: 100px;
+    text-align: left;
+    border-spacing: 25px;
+}
+footer{
+    color: aliceblue ;
+    padding-bottom: 100px;
+}
+footer div{
+    float: left;
+    text-decoration: none;
+    width: 25%;
+}
+
+footer li{
+    list-style: none;
+    line-height: 25px;
+}
